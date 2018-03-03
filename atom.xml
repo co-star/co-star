@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>原来我只是一个配角</title>
+  
+  <subtitle>What matters in life is not what happens to you but what you remember and how you remember it.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://co-star.github.io/"/>
+  <updated>2018-03-03T07:24:46.535Z</updated>
+  <id>http://co-star.github.io/</id>
+  
+  <author>
+    <name>co-star</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://co-star.github.io/2018/03/02/hello-world/"/>
+    <id>http://co-star.github.io/2018/03/02/hello-world/</id>
+    <published>2018-03-02T09:35:25.206Z</published>
+    <updated>2018-03-03T07:24:46.535Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css">]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
