@@ -1900,7 +1900,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #e37708;
+  background: #18ff4e;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3223,5 +3223,8 @@ pre .javascript .function {
   }
 }
 .links-of-blogroll-inline .links-of-blogroll-item {
+  margin: 5px 15px;
+}
+.links-of-author-item {
   margin: 5px 15px;
 }
